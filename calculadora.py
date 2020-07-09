@@ -1,3 +1,7 @@
+#        LISTA DE SIGNIFICADOS
+# grid => especifica a posição do objeto
+# pdx e pady => coordenadas em pixel
+
 from tkinter import *
 
 root = Tk()
