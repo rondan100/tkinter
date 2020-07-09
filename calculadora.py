@@ -1,3 +1,7 @@
+    """[3 aspas]
+        implica comentarios organizado de alguma coisa. É de uma extersão
+    """
+
 #        LISTA DE SIGNIFICADOS
 # grid => especifica a posição do objeto
 # pdx e pady => coordenadas em pixel
