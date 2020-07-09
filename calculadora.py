@@ -1,7 +1,7 @@
     """[3 aspas]
-        implica comentarios organizado de alguma coisa. É de uma extersão
+        implica comentarios organizado de alguma coisa. É de uma extensão.
     """
-
+# mais uma vez aqui pois estou juntando2 repositorios para ver se salvam corretamente simultaneamente
 #        LISTA DE SIGNIFICADOS
 # grid => especifica a posição do objeto
 # pdx e pady => coordenadas em pixel
