@@ -1,0 +1,9 @@
+O probelma da anaconda no Vscode. Teria q atualizar a build.
+
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PowerShell\1\ShellIds\Microsoft.PowerShell]
+"ExecutionPolicy"="bypass"
+
+trocar bypass por Restrict
