@@ -1,5 +1,6 @@
 O probelma da anaconda no Vscode. Teria q atualizar a build.
 
+Tem q ir no registro do windows no caminho abaixo e trocar por bypass.. ou abra o PowerShell como Administrador e execute o comando: Set-ExecutionPolicy Unrestricted -Force
 
 Windows Registry Editor Version 5.00
 
